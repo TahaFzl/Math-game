@@ -1,5 +1,3 @@
-https://tahafzl.github.io/Math-game/
-
 🔢 Number Guessing Game
 
 A modern browser-based game where players guess a 3-digit secret number. Features real-time feedback and attempt history tracking.
@@ -16,3 +14,5 @@ A modern browser-based game where players guess a 3-digit secret number. Feature
 - Modern CSS (Flexbox, animations, custom scrollbar)  
 - HTML5 semantic markup  
 - Google Fonts (Poppins)
+
+🔗 Play now: tahafzl.github.io/Math-game
