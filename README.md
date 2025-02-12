@@ -15,5 +15,7 @@ A modern browser-based game where players guess a 3-digit secret number. Feature
 - HTML5 semantic markup  
 - Google Fonts (Poppins)
 
+I will be happy for any commit!
+
 ## 🌐 Play Now
 [Click Here to Play](https://tahafzl.github.io/Math-game/)
